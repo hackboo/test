@@ -1,5 +1,9 @@
-title: My Awesome Site
-description: Projects, blogs, and more
-remote_theme: pages-themes/midnight@v0.2.0
+title: My Project Work
+description: A detailed view of my project with documentation and code.
+theme: jekyll-theme-cayman
+show_downloads: true
+google_analytics: 
+markdown: kramdown
 plugins:
-  - jekyll-remote-theme
+  - jekyll-feed
+  - jekyll-seo-tag
