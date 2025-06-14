@@ -1,4 +1,4 @@
-# 🚀 Project Name: [Your Awesome Project Title Here]
+# 🚀 Project Name: [CampusConnect]
 
 Welcome to the **official preview page** of my upcoming project hosted on GitHub Pages!
 
